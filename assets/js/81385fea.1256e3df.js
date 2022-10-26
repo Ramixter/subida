@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksubida=self.webpackChunksubida||[]).push([[4014],{5789:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/subida/blog/tags/facebook","allTagsPath":"/subida/blog/tags","count":1}')}}]);

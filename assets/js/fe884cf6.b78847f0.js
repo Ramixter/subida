@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksubida=self.webpackChunksubida||[]).push([[2477],{6893:e=>{e.exports=JSON.parse('{"permalink":"/subida/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
